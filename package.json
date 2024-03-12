@@ -1,0 +1,25 @@
+{
+  "name": "react-flow-form",
+  "version": "1.0.0",
+  "description": "A multi step form flow for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rounit08/react-flow-form.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rounit Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rounit08/react-flow-form/issues"
+  },
+  "homepage": "https://github.com/rounit08/react-flow-form#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
